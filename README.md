@@ -1,2 +1,2 @@
 # db_iaw_amg
-Este proyecto consiste en la utilización de una base de datos (db_iaw_amg) a través de interfaz web gráfica, mediante lenguaje PHP. El objetivo es proporcionar una manera fácil de interactuar con la base de datos desde un navegador.
+Este proyecto es un sistema de gestión desarrollado con PHP, MariaDB y Apache2, diseñado para administrar información mediante una interfaz web responsiva y funcionalidades avanzadas. Está optimizado para proporcionar una experiencia profesional gracias al uso de estilos mejorados basados en Bootstrap.
